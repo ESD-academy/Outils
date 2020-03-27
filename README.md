@@ -1,12 +1,17 @@
 # Outils
- Outils ESD academy concernant les principaux items de la cybersécurité et SSI.
- Le conseil et la formation en audit de conformité ISO, la gestion des risques, le test d'intrusion, etc. ont besoin d'être outillé.
- C'est pourquoi nous mettons à disposition notre expérience et notre matière.
+ Outils ESD academy se base sur les principaux items de la cybersécurité et la SSI.
+ Audit de conformité ISO, la gestion des risques, le test d'intrusion, etc.
+ Nous mettons à disposition notre expérience et nos outils.
  
  N'hésitez pas à faire vos remarques et surtout contribuer.
  
- ESD academy
- contact@esdacademy.eu
- https://esdacademyeu
+Formations, certifications, mastère en cybersécurité made in FR/EU
+En savoir plus : https://esdacademy.eu/
+-------------------------------------------------------------------------------------------------------------
+ESD Cybersecurity Academy
+10 rue de Penthièvre  75008 PARIS
+08 05 62 60 00
+contact[a]esdacademy.eu
+
  
  
