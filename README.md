@@ -1,5 +1,5 @@
 # Outils
- Outils ESD academy se base sur les principaux items de la cybersécurité et la SSI.
+ Les outils ESD Cybersecurity Academy sont portés sur les principaux items de la cybersécurité et la SSI.
  Audit de conformité ISO, la gestion des risques, le test d'intrusion, etc.
  Nous mettons à disposition notre expérience et nos outils.
  
