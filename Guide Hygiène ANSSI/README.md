@@ -3,6 +3,7 @@
  Voici une vidéo expliquant les différents items de l'outil : https://youtu.be/JvnLFGHOXbA
   
  N'hésitez pas à faire vos remarques et surtout contribuer.
+ Pour aller plus loin, vous pouvez vous inscrire à notre formation "Cyberdéfense" qui aborde ce sujet et bien d'autres du même thème.
  
 Formations, certifications, mastère en cybersécurité made in FR/EU
 En savoir plus : https://esdacademy.eu/
